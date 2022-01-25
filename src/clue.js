@@ -113,7 +113,6 @@ function selectRandom(arr) {
   } else {
     return arr[arrPosition];
   }
-  //console.log (arrPosition);
 }
 
 function pickMystery() {}
